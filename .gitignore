@@ -1,0 +1,18 @@
+
+
+# Archivos Preliminares
+.vscode
+prepros-6.config
+libs/stylus
+_blanco.html
+*.log
+prepros.config
+
+#Archivos Stylus
+assets/stylus
+
+
+#Archivos Php
+assets/php
+
+
